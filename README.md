@@ -1,7 +1,7 @@
 # House Price Investigation
 ## Graduate Course: Quantitative Analysis for Business
 
-This was a group project from a course on Quantitative Analysis for Business where I worked . 
+This was a group project from a course on Quantitative Analysis for Business. 
 
 On an individual level, the real estate markets form as one of the most reliable ways for investors to grow their personal wealth. They qualify as a safe and potential investment option to secure income stability. On a much more global scale, property prices are becoming increasingly important and beneficial, the ability to identify price trends in properties serve as markers for indicating the overall market condition and the economic health of a country. This makes it a somewhat interesting investment category for analysis as there exists no standard source of real estate valuation. 
 
