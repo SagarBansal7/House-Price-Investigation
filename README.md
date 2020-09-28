@@ -10,7 +10,7 @@ This was a group project from a course on Quantitative Analysis for Business. He
 Here's some information about all the files included in this repository:
 
 1) <a href="https://github.com/SagarBansal7/House-Price-Investigation/blob/master/Dataset%20-%20House%20Price%20Investigation.xlsx">Dataset</a> - Data used for this analysis that was retrieved from Kaggle.com. The data is pertaining to the period of May, 2014 - July, 2014. 
-2) <a href="https://github.com/SagarBansal7/House-Price-Investigation/blob/master/SPSS%20Data%20-%20House%20Price%20Investigation.sav">Source Code</a> - Data file that was written in using SPSS Statistics package.
-3) <a href="https://github.com/SagarBansal7/House-Price-Investigation/blob/master/Output%20-%20House%20Price%20Investigation.spv"</a> - Output file in .spv format that was generated using SPSS Statistics software.
+2) <a href="https://github.com/SagarBansal7/House-Price-Investigation/blob/master/SPSS%20Data%20-%20House%20Price%20Investigation.sav">Data File (.sav)</a> - Data file that was generated using SPSS Statistics software.
+3) <a href="https://github.com/SagarBansal7/House-Price-Investigation/blob/master/Output%20-%20House%20Price%20Investigation.spv">Output File (.spv)</a> - Output file in .spv format that was generated using SPSS Statistics software.
 4) <a href="https://github.com/SagarBansal7/House-Price-Investigation/blob/master/Project%20Report%20-%20House%20Price%20Investigation.pdf">Project Report</a> - In-depth analysis details. 
 5) <a href="https://github.com/SagarBansal7/House-Price-Investigation/blob/master/Presentation%20-%20House%20Price%20Investigation.pdf">Presentation</a> - Final presentation summarizing the analysis for non-technical audience.
